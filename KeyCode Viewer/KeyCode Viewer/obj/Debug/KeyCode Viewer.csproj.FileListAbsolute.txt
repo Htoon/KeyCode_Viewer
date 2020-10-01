@@ -1,0 +1,8 @@
+D:\Visual Studio 2008\Visual C# .NET\Projects\KeyCode Viewer\KeyCode Viewer\bin\Debug\KeyCode Viewer.exe
+D:\Visual Studio 2008\Visual C# .NET\Projects\KeyCode Viewer\KeyCode Viewer\bin\Debug\KeyCode Viewer.pdb
+D:\Visual Studio 2008\Visual C# .NET\Projects\KeyCode Viewer\KeyCode Viewer\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Visual C# .NET\Projects\KeyCode Viewer\KeyCode Viewer\obj\Debug\KeyCode_Viewer.frmMain.resources
+D:\Visual Studio 2008\Visual C# .NET\Projects\KeyCode Viewer\KeyCode Viewer\obj\Debug\KeyCode_Viewer.Properties.Resources.resources
+D:\Visual Studio 2008\Visual C# .NET\Projects\KeyCode Viewer\KeyCode Viewer\obj\Debug\KeyCode Viewer.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Visual C# .NET\Projects\KeyCode Viewer\KeyCode Viewer\obj\Debug\KeyCode Viewer.exe
+D:\Visual Studio 2008\Visual C# .NET\Projects\KeyCode Viewer\KeyCode Viewer\obj\Debug\KeyCode Viewer.pdb
